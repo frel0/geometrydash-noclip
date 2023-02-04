@@ -12,7 +12,7 @@ int main()
     int val = 14315;
 
     while (true) {
-    WriteProcessMemory(handle, (LPVOID)0x00EAA1DD, &val, 4, NULL);
+    WriteProcessMemory(handle, (LPVOID)0x00B4A1DD, &val, 4, NULL);
     }
 
     return 0;
