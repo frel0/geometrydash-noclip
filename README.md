@@ -1,7 +1,7 @@
 # geometry dash noclip
 
 external gd noclip... is there anything else to say?
-created this because i want it!
+created this because i want it! also you need to update the address
 
 ## Usage/Examples
 
